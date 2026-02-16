@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- معلومات التطبيق -->
+    <key>CFBundleDevelopmentRegion</key>
+    <string>$(DEVELOPMENT_LANGUAGE)</string>
+    <key>CFBundleDisplayName</key>
+    <string>Hijizli</string>
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>hijizli</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>$(FLUTTER_BUILD_NAME)</string>
+    <key>CFBundleVersion</key>
+    <string>$(FLUTTER_BUILD_NUMBER)</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+    <key>UIMainStoryboardFile</key>
+    <string>Main</string>
+
+    <!-- دعم الاتجاهات -->
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationPortraitUpsideDown</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+
+    <!-- تحسين الأداء -->
+    <key>CADisableMinimumFrameDurationOnPhone</key>
+    <true/>
+    <key>UIApplicationSupportsIndirectInputEvents</key>
+    <true/>
+
+    <!-- أذونات الموقع -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>هذا التطبيق يحتاج إلى الوصول إلى موقعك لتحديد الفنادق القريبة منك.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>هذا التطبيق يحتاج إلى الوصول المستمر لموقعك لتقديم خدمات تحديد الموقع بشكل أفضل.</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>هذا التطبيق يحتاج للوصول إلى موقعك دائمًا وعند الاستخدام لتحديد الفنادق القريبة.</string>
+
+    <!-- أذونات إضافية إذا أردت استخدام خدمات أخرى -->
+    <key>NSCameraUsageDescription</key>
+    <string>هذا التطبيق يحتاج إلى الكاميرا لأغراض التقاط الصور (اختياري).</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>هذا التطبيق يحتاج الوصول إلى مكتبة الصور (اختياري).</string>
+</dict>
+</plist>

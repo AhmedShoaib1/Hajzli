@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916374315823",
+    "project_id": "hijizli",
+    "storage_bucket": "hijizli.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916374315823:android:bd7d10839649be97b377da",
+        "android_client_info": {
+          "package_name": "com.example.hijizli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENiZ9M8TxkzQL7Q4jKYwRwOa4O5xlZlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
