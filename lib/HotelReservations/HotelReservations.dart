@@ -6,11 +6,11 @@ import 'package:geolocator/geolocator.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
 import 'package:firebase_auth/firebase_auth.dart'; // ✅ للتحقق من حالة تسجيل الدخول
-import 'package:hijizli/l10n/app_localizations.dart';
-import 'package:hijizli/SearchForFlights/SearchForFlights.dart';
-import 'package:hijizli/SearchTrips/SearchTrips.dart';
-import 'package:hijizli/UserPage/UserPage.dart';
-import 'package:hijizli/SelectTheLoginProcess/SelectTheLoginProcess.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
+import 'package:hajzli/SearchForFlights/SearchForFlights.dart';
+import 'package:hajzli/SearchTrips/SearchTrips.dart';
+import 'package:hajzli/UserPage/UserPage.dart';
+import 'package:hajzli/SelectTheLoginProcess/SelectTheLoginProcess.dart';
 
 class HotelReservations extends StatefulWidget {
   const HotelReservations({super.key});

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:hijizli/SearchTrips/SearchTrips.dart';
-import 'package:hijizli/SearchForFlights/SearchForFlights.dart';
-import 'package:hijizli/HotelReservations/HotelReservations.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/SearchTrips/SearchTrips.dart';
+import 'package:hajzli/SearchForFlights/SearchForFlights.dart';
+import 'package:hajzli/HotelReservations/HotelReservations.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 import '../main.dart';
 
 class HomePage extends StatelessWidget {

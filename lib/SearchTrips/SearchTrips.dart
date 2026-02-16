@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:hijizli/HotelReservations/HotelReservations.dart';
-import 'package:hijizli/SearchForFlights/SearchForFlights.dart';
-import 'package:hijizli/SelectTheLoginProcess/SelectTheLoginProcess.dart';
-import 'package:hijizli/HelpCenter/HelpCenter.dart';
-import 'package:hijizli/home/home.dart';
-import 'package:hijizli/UserPage/UserPage.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/HotelReservations/HotelReservations.dart';
+import 'package:hajzli/SearchForFlights/SearchForFlights.dart';
+import 'package:hajzli/SelectTheLoginProcess/SelectTheLoginProcess.dart';
+import 'package:hajzli/HelpCenter/HelpCenter.dart';
+import 'package:hajzli/home/home.dart';
+import 'package:hajzli/UserPage/UserPage.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 
 const List<String> locations = [
   "دمشق",

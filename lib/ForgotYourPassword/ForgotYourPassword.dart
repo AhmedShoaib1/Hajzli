@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 
 class ForgotYourPassword extends StatefulWidget {
   const ForgotYourPassword({super.key});

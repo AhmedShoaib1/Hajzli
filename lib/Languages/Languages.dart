@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 import '../main.dart'; // لاستدعاء MyApp.setLocale
 
 class LanguagesPage extends StatelessWidget {

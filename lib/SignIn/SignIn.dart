@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:country_code_picker/country_code_picker.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 import '../main.dart';
 
 // ✅ تم حذف استيراد UsersPrivateInformation لأنه لم يعد مستخدماً

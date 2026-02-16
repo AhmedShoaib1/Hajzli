@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:hijizli/home/home.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/home/home.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 
 class Splach_screan extends StatefulWidget {
   const Splach_screan({super.key});

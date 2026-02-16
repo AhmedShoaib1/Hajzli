@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:hijizli/Home/home.dart';
-import 'package:hijizli/SearchTrips/SearchTrips.dart';
-import 'package:hijizli/HelpCenter/HelpCenter.dart';
-import 'package:hijizli/UserPage/UserPage.dart';
-import 'package:hijizli/UsersPrivateInformation/UsersPrivateInformation.dart';
-import 'package:hijizli/PaymentInformation/PaymentInformation.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/Home/home.dart';
+import 'package:hajzli/SearchTrips/SearchTrips.dart';
+import 'package:hajzli/HelpCenter/HelpCenter.dart';
+import 'package:hajzli/UserPage/UserPage.dart';
+import 'package:hajzli/UsersPrivateInformation/UsersPrivateInformation.dart';
+import 'package:hajzli/PaymentInformation/PaymentInformation.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 
 class Profile extends StatefulWidget {
   const Profile({super.key});

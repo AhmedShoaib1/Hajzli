@@ -3,10 +3,10 @@ import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:firebase_auth/firebase_auth.dart'; // ✅ للتحقق من حالة تسجيل الدخول
 import 'dart:ui' as ui;
-import 'package:hijizli/SelectFlight/SelectFlight.dart';
-import 'package:hijizli/UserPage/UserPage.dart';
-import 'package:hijizli/SelectTheLoginProcess/SelectTheLoginProcess.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/SelectFlight/SelectFlight.dart';
+import 'package:hajzli/UserPage/UserPage.dart';
+import 'package:hajzli/SelectTheLoginProcess/SelectTheLoginProcess.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 
 class SearchForFlights extends StatefulWidget {
   const SearchForFlights({super.key});

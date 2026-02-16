@@ -5,12 +5,12 @@ import 'package:google_sign_in/google_sign_in.dart';
 import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 
-import 'package:hijizli/SearchTrips/SearchTrips.dart';
-import 'package:hijizli/Home/home.dart';
-import 'package:hijizli/SignIn/SignIn.dart';
-import 'package:hijizli/LogIn/LogIn.dart';
-import 'package:hijizli/HelpCenter/HelpCenter.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/SearchTrips/SearchTrips.dart';
+import 'package:hajzli/Home/home.dart';
+import 'package:hajzli/SignIn/SignIn.dart';
+import 'package:hajzli/LogIn/LogIn.dart';
+import 'package:hajzli/HelpCenter/HelpCenter.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 import '../main.dart';
 
 class SelectTheLoginProcess extends StatefulWidget {

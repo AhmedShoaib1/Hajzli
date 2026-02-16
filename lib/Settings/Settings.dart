@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:hijizli/Home/home.dart';
-import 'package:hijizli/SearchTrips/SearchTrips.dart';
-import 'package:hijizli/HelpCenter/HelpCenter.dart';
-import 'package:hijizli/UserPage/UserPage.dart';
-import 'package:hijizli/Currencies/Currencies.dart';
-import 'package:hijizli/Languages/Languages.dart';
-import 'package:hijizli/ResetPassword/ResetPassword.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/Home/home.dart';
+import 'package:hajzli/SearchTrips/SearchTrips.dart';
+import 'package:hajzli/HelpCenter/HelpCenter.dart';
+import 'package:hajzli/UserPage/UserPage.dart';
+import 'package:hajzli/Currencies/Currencies.dart';
+import 'package:hajzli/Languages/Languages.dart';
+import 'package:hajzli/ResetPassword/ResetPassword.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 
 class Settings extends StatefulWidget {
   final ValueNotifier<ThemeMode>? themeNotifier;

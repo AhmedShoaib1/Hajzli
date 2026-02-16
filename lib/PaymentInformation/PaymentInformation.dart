@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hijizli/AddCard/AddCard.dart'; // تأكد أن المسار صحيح في مشروعك
+import 'package:hajzli/AddCard/AddCard.dart'; // تأكد أن المسار صحيح في مشروعك
 
 class PaymentInformation extends StatefulWidget {
   const PaymentInformation({super.key});

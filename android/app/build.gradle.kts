@@ -23,7 +23,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.hijizli"
+        applicationId = "com.example.hajzli"
         minSdk = 23        // ✅ يجب أن يكون 23 أو أكثر لـ Firebase Auth
         targetSdk = 34
         versionCode = flutter.versionCode

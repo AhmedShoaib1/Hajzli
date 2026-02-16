@@ -5,21 +5,21 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
-import 'package:hijizli/splach/splach.dart';
-import 'package:hijizli/home/home.dart';
-import 'package:hijizli/SearchTrips/SearchTrips.dart';
-import 'package:hijizli/SearchForFlights/SearchForFlights.dart';
-import 'package:hijizli/HotelReservations/HotelReservations.dart';
-import 'package:hijizli/HelpCenter/HelpCenter.dart';
-import 'package:hijizli/SelectTheLoginProcess/SelectTheLoginProcess.dart';
-import 'package:hijizli/SelectTrips/Choosing.dart';
-import 'package:hijizli/SelectFlight/SelectFlight.dart';
-import 'package:hijizli/Currencies/Currencies.dart';
-import 'package:hijizli/Languages/Languages.dart';
-import 'package:hijizli/ResetPassword/ResetPassword.dart';
-import 'package:hijizli/AddCard/AddCard.dart';
-import 'package:hijizli/EmailVerificationPendingPage.dart';
-import 'package:hijizli/l10n/app_localizations.dart';
+import 'package:hajzli/splach/splach.dart';
+import 'package:hajzli/home/home.dart';
+import 'package:hajzli/SearchTrips/SearchTrips.dart';
+import 'package:hajzli/SearchForFlights/SearchForFlights.dart';
+import 'package:hajzli/HotelReservations/HotelReservations.dart';
+import 'package:hajzli/HelpCenter/HelpCenter.dart';
+import 'package:hajzli/SelectTheLoginProcess/SelectTheLoginProcess.dart';
+import 'package:hajzli/SelectTrips/Choosing.dart';
+import 'package:hajzli/SelectFlight/SelectFlight.dart';
+import 'package:hajzli/Currencies/Currencies.dart';
+import 'package:hajzli/Languages/Languages.dart';
+import 'package:hajzli/ResetPassword/ResetPassword.dart';
+import 'package:hajzli/AddCard/AddCard.dart';
+import 'package:hajzli/EmailVerificationPendingPage.dart';
+import 'package:hajzli/l10n/app_localizations.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

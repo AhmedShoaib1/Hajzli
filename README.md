@@ -1,4 +1,4 @@
-# hijizli
+# hajzli
 
 A new Flutter project.
 
